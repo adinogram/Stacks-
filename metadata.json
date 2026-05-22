@@ -1,0 +1,6 @@
+{
+  "name": "Stacks Proof-of-Activity Hub",
+  "description": "Bitcoin L2 Proof-of-Activity platform on Stacks. Create tasks, submit proofs, verify completion, and claim tokens with live automated minting, mock leather/xverse wallets, and an interactive developer SDK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
